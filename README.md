@@ -156,7 +156,5 @@ No known bugs at this time.
 ## Authors
 Andualem Asamenew - [Github](https://github.com/Andualem-andy) 
 
-
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
